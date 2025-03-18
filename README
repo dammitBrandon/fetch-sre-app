@@ -1,0 +1,12 @@
+###Getting Started
+Files of importance:
+ - package.json
+ - index.js
+ - test-input.yaml
+
+###UP and Running
+You must have nodejs installed, this was ran on v22.2 but should run on most versions.
+
+To `npm install` to install packages.
+
+To run program `node index.js ./path/to/input/test/file.yaml` and to quit program `CRTL+C`.
